@@ -1,0 +1,10 @@
+White Teeth 		Jack London		3		AVAILABLE		
+Lorna Doone		R. D. Blackmore		3		AVAILABLE		
+Jamaica Inn		Daphne du Maurier		0		UNAVAILABLE		
+Treasure Island		Robert Louis Stevenson		2		AVAILABLE		
+The Call of the Wild		Jack London		1		AVAILABLE		
+Charlotte's Web 		E. B. White		0		UNAVAILABLE		
+Moonfleet		J. Meade Falkner		0		UNAVAILABLE		
+Oliver Twist		Charles Dickens		1		AVAILABLE		
+A Tale of Two Cities		Charles Dickens 		4		AVAILABLE		
+	
